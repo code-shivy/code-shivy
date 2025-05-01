@@ -13,5 +13,5 @@
 - astronomer/astronomer
 - astronomer/airflow-chart
 
- I like to write about my work or anything new that i am exploring:
+✍️ I like to write about my work or anything new that i am exploring:
  - https://medium.com/@golusstyle
