@@ -1,18 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+I am currently working as a Senior Software engineer in Astronomer.<br>📫 You can reach at shivy95lko@gmail.com 🔧 Maintainer of astronomer/astronomer (shubham.singh@astronomer.io)<br><br>🔙 Formerly:<br><br>Quattr<br>Cohesity<br>Dell Technologies<br>🌏 OSS Contributions:<br><br>astronomer/astronomer<br>astronomer/airflow-chart<br>✍️ I like to write about my work or anything new that i am exploring:<br><br>https://medium.com/@golusstyle<br><br><br>I am currently building a load balancer for solana RPC endpoints aimed at better dev experience.<br>My tech stack includes: Kubernetes, Docker, Prometheus, Golang, Python, Terraform, Ansible,Github.
 
-- 👨‍💻 Shubham here!
 
-📫 You can reach at shivy95lko@gmail.com
-🔧 Maintainer of astronomer/astronomer (shubham.singh@astronomer.io)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-kumar-singh-09339a122/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@golusstyle) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10287849) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shubhamsingh889) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SHUBHAM KUMAR SINGH) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:golusstyle@gmail.com) 
 
-🔙 Formerly:
-- Quattr
-- Cohesity
-- Dell Technologies
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=code-shivy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=code-shivy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=code-shivy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌏 OSS Contributions:
-- astronomer/astronomer
-- astronomer/airflow-chart
+---
+[![](https://komarev.com/ghpvc/?username=code-shivy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-✍️ I like to write about my work or anything new that i am exploring:
- - https://medium.com/@golusstyle
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
