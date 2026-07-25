@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Senior Software engineer in Astronomer.<br>📫 You can reach at shivy95lko@gmail.com 🔧 Maintainer of astronomer/astronomer (shubham.singh@astronomer.io)<br><br>🔙 Formerly:<br><br>Quattr<br>Cohesity<br>Dell Technologies<br>🌏 OSS Contributions:<br><br>astronomer/astronomer<br>astronomer/airflow-chart<br>✍️ I like to write about my work or anything new that i am exploring:<br><br>https://medium.com/@golusstyle<br><br><br>I am currently building a load balancer for solana RPC endpoints aimed at better dev experience.<br>My tech stack includes: Kubernetes, Docker, Prometheus, Golang, Python, Terraform, Ansible,Github.
+I am currently working as a Senior Software engineer in Astronomer.<br>📫 You can reach at shivy95lko@gmail.com 🔧 Maintainer of astronomer/astronomer (shubham.singh@astronomer.io)<br><br>🔙 Formerly:<br><br>Quattr<br>Cohesity<br>Dell Technologies<br>🌏 OSS Contributions:<br><br>astronomer/astronomer<br>astronomer/airflow-chart<br>✍️ I like to write about my work or anything new that i am exploring:<br><br>https://medium.com/@golusstyle<br><br><br>I am currently building a load balancer for solana RPC endpoints aimed at better dev experience.<br>
 
 
 ## 🌐 Socials:
